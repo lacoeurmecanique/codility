@@ -8,6 +8,7 @@ def solution(a)
   
   a.each_index do |i|
     break unless i<a.size-1
+    
     min_sum_temp+=a[i]
     min_sum.push((2*min_sum_temp-sum).abs)
   end
