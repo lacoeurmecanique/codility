@@ -2,8 +2,8 @@
 def solution(a)
 
     seen = {}
-  a.each do |number|
-    seen[number] = true
+  a.each do |num|
+    seen[num] = true
   end
   
   max = a.max
