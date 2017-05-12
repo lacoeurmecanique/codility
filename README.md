@@ -1,2 +1,2 @@
-# codility
-Solution of some tasks(codility.com)
+# Codility
+Ruby solution of some tasks (https://codility.com/programmers/lessons)
